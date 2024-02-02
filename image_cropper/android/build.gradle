@@ -38,6 +38,10 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        implementation 'com.github.yalantis:ucrop:2.2.8'
+        //
+        // implementation 'com.github.yalantis:ucrop:2.2.8'
+
+        //Switch to custom
+        implementation 'com.github.bob-tools.ucrop_bottom_nav:+'
     }
 }
