@@ -1,4 +1,4 @@
-name: image_cropper
+name: image_cropper_bottom_nav
 description: A Flutter plugin for Android, iOS and Web supports cropping images
 version: 5.0.1
 homepage: https://github.com/hnvn/flutter_image_cropper
